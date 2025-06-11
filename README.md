@@ -1,12 +1,12 @@
 <!-- Puedes crear un banner bonito en Canva o similar y subirlo aquí -->
 <p align="center">
-  <img src="https://your-image-link.com/banner.png" alt="Banner personal" width="100%" />
+  <img src="https://i.imgur.com/1bX5QH6.png" alt="Banner Jessica B" width="100%" />
 </p>
 
-<h1 align="center">✨ ¡Hola, soy [Tu Nombre]! ✨</h1>
+<h1 align="center" style="color:#A66DD4;">✨ ¡Hola, soy Jessica B! ✨</h1>
 
-<p align="center">
-  💻 Desarrolladora | 🎨 Creativa | 🚀 Aprendiz constante
+<p align="center" style="color:#A66DD4;">
+ 💻 Desarrolladora | 🎨 Creativa | 🚀 Aprendiz constante
 </p>
 
 ---
@@ -29,6 +29,21 @@ Me encanta aprender cosas nuevas y trabajar en proyectos que mezclen **código +
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+
+---
+
+### 🖼️ Imágenes cute decorativas
+
+<p align="center">
+  <img src="https://i.imgur.com/bZXg7fL.png" width="130px" alt="Pixel Heart" />
+  <img src="https://i.imgur.com/yxqzRIG.png" width="130px" alt="Cute Cat Pixel" />
+  <img src="https://i.imgur.com/YXk2ivO.png" width="130px" alt="Star Pixel" />
+</p>
+
+---
+
+
+<p align="center" style="color:#A66DD4;"><b>Hecho con 💜 pasión por la tecnología.</b></p>
 
 
 
