@@ -1,12 +1,12 @@
 <!-- Puedes crear un banner bonito en Canva o similar y subirlo aquí -->
 <p align="center">
-  <img src="https://cdna.artstation.com/p/assets/images/images/042/135/796/original/david-danc3r-moyano-day-7-window-1.gif?1633659543" alt="Banner pixelado violeta" style="width: 30%; max-height: 100px; object-fit: contain;" />
+  <img src="https://cdna.artstation.com/p/assets/images/images/042/135/796/original/david-danc3r-moyano-day-7-window-1.gif?1633659543" alt="Banner pixelado violeta" style="width: 20%; max-height: 100px; object-fit: contain;" />
 </p>
 
 <h1 align="center" style="color:#A66DD4;">✨ ¡Hola, soy Jessica B! ✨</h1>
 
 <p align="center" style="color:#A66DD4;">
- 💻 Desarrolladora Software | Análisis de Datos | 🎨 Creativa | 🚀 Aprendiz constante
+ 💻 Desarrolladora Software | 📊 Análisis de Datos | 🎨 Creativa | 🚀 Aprendiz constante
 </p>
 
 ---
