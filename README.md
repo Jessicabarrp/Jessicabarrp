@@ -14,9 +14,9 @@
 ### 🌸 Sobre mí
 
 Soy una apasionada por la tecnología, el diseño y las ideas creativas.  
-Me encanta aprender cosas nuevas y trabajar en proyectos que mezclen **código + creatividad**.
+Me encanta aprender cosas nuevas y trabajar en proyectos que mezclen **código + análisis + creatividad**.
 
-- 🖥️ **Áreas favoritas:** Desarrollo web, diseño UI/UX, automatización.
+- 🖥️ **Áreas favoritas:** Desarrollo web, diseño UI/UX, Análisis de Datos.
 - 💡 **Habilidades:** HTML, CSS, JavaScript, React, Python.
 - 🎯 **Objetivo:** Crear proyectos con propósito, estética y funcionalidad.
 
@@ -32,20 +32,10 @@ Me encanta aprender cosas nuevas y trabajar en proyectos que mezclen **código +
 
 ---
 
-### 🖼️ Imágenes cute decorativas
-
-<p align="center">
-  <img src="https://i.imgur.com/bZXg7fL.png" width="130px" alt="Pixel Heart" />
-  <img src="https://i.imgur.com/yxqzRIG.png" width="130px" alt="Cute Cat Pixel" />
-  <img src="https://i.imgur.com/YXk2ivO.png" width="130px" alt="Star Pixel" />
-</p>
-
----
-
 ### 📫 Contacto
 
-- 📧 **Email:** [tu-email@example.com](mailto:tu-email@example.com)
-- 💼 **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+- 📧 **Email:** [tu-email@example.com](jessicabarriga055@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/tuusuario]([https://linkedin.com/in/tuusuario](https://www.linkedin.com/in/jessica-barriga-6a69342b5/))
 
 ---
 
