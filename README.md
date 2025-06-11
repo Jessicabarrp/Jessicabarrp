@@ -35,7 +35,7 @@ Me encanta aprender cosas nuevas y trabajar en proyectos que mezclen **código +
 ### 📫 Contacto
 
 - 📧 **Email:** [jessicabarriga055@gmail.com](jessicabarriga055@gmail.com)
-- 💼 **LinkedIn:** [https://linkedin.com/in/tuusuario](https://www.linkedin.com/in/jessica-barriga-6a69342b5/]([https://linkedin.com/in/tuusuario](https://www.linkedin.com/in/jessica-barriga-6a69342b5/))
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/jessica-barriga-6a69342b5/]([https://linkedin.com/in/tuusuario](https://www.linkedin.com/in/jessica-barriga-6a69342b5/))
 
 ---
 
