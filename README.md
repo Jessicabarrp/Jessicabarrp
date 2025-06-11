@@ -42,8 +42,12 @@ Me encanta aprender cosas nuevas y trabajar en proyectos que mezclen **código +
 
 ---
 
+### 📫 Contacto
+
+- 📧 **Email:** [tu-email@example.com](mailto:tu-email@example.com)
+- 💼 **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+
+---
 
 <p align="center" style="color:#A66DD4;"><b>Hecho con 💜 pasión por la tecnología.</b></p>
-
-
 
