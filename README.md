@@ -1,6 +1,6 @@
 <!-- Puedes crear un banner bonito en Canva o similar y subirlo aquí -->
 <p align="center">
-  <img src="https://i.imgur.com/1bX5QH6.png" alt="Banner Jessica B" width="100%" />
+  <img src="[https://i.imgur.com/1bX5QH6.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fideas%2Fpurple-pixel-art-gif-banner%2F930113058981%2F&psig=AOvVaw12aQArORV6B0dNfphVOx8R&ust=1749697065550000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMi9rtKv6I0DFQAAAAAdAAAAABAE)" alt="Banner Jessica B" width="100%" />
 </p>
 
 <h1 align="center" style="color:#A66DD4;">✨ ¡Hola, soy Jessica B! ✨</h1>
