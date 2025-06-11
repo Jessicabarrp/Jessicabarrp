@@ -1,12 +1,12 @@
 <!-- Puedes crear un banner bonito en Canva o similar y subirlo aquí -->
 <p align="center">
-  <img src="https://cdna.artstation.com/p/assets/images/images/042/135/796/original/david-danc3r-moyano-day-7-window-1.gif?1633659543" alt="Banner pixelado violeta" style="width: 80%; max-height: 100px; object-fit: contain;" />
+  <img src="https://cdna.artstation.com/p/assets/images/images/042/135/796/original/david-danc3r-moyano-day-7-window-1.gif?1633659543" alt="Banner pixelado violeta" style="width: 60%; max-height: 100px; object-fit: contain;" />
 </p>
 
 <h1 align="center" style="color:#A66DD4;">✨ ¡Hola, soy Jessica B! ✨</h1>
 
 <p align="center" style="color:#A66DD4;">
- 💻 Desarrolladora | 🎨 Creativa | 🚀 Aprendiz constante
+ 💻 Desarrolladora Software | Análisis de Datos | 🎨 Creativa | 🚀 Aprendiz constante
 </p>
 
 ---
@@ -17,7 +17,7 @@ Soy una apasionada por la tecnología, el diseño y las ideas creativas.
 Me encanta aprender cosas nuevas y trabajar en proyectos que mezclen **código + creatividad**.
 
 - 🖥️ **Áreas favoritas:** Desarrollo web, diseño UI/UX, automatización.
-- 💡 **Habilidades:** HTML, CSS, JavaScript, React, Node.js, Python.
+- 💡 **Habilidades:** HTML, CSS, JavaScript, React, Python.
 - 🎯 **Objetivo:** Crear proyectos con propósito, estética y funcionalidad.
 
 ---
